@@ -11,7 +11,6 @@
         <div class="row">
             <div class="col-sm-auto bg-light sticky-top">
                 <div class="d-flex flex-sm-column flex-row flex-nowrap bg-light sticky-top">
-                    <p>Faris Huwaidi</p>
                     <a href="/" class="d-block fs-5 p-3 link-dark text-decoration-none fw-bold" title="" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-original-title="Icon-only">
                         Rangkuman Materi Git
                     </a>
@@ -33,7 +32,11 @@
                         </li>
                         <li>
                             <a href="#sourcetree" class="text-dark nav-link" title="" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-original-title="Products">
+<<<<<<< HEAD
                                 GUI Sourcetree
+=======
+                                Aplikasi Sourcetree
+>>>>>>> faris
                             </a>
                         </li>
                     </ul>
